@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-normalize',
+  name: 'ember-normalize',
 
   included: function(app) {
     this._super.included(app);
