@@ -13,8 +13,8 @@ ember install:addon ember-normalize
 If you're using an older version of ember-cli:
 
 ```no-highlight
-npm install ember-cli-proxy-fixtures --save-dev
-ember generate ember-cli-proxy-fixtures
+npm install ember-normalize --save-dev
+ember generate ember-normalize
 ```
 
 [normalize]: https://github.com/necolas/normalize.css/ "normalize.css"
