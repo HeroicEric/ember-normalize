@@ -1,7 +1,7 @@
 {
   "name": "ember-normalize",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember CLI addon for normalize.css",
   "directories": {
     "doc": "doc",
     "test": "tests"
