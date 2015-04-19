@@ -1,20 +1,25 @@
-# ember-normalize
+# Ember-normalize
 
-This addon adds [normalize.css][normalize] to your ember-cli app.
+This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
-If you're using ember-cli v0.1.5+:
+* `git clone` this repository
+* `npm install`
+* `bower install`
 
-```no-highlight
-ember install:addon ember-normalize
-```
+## Running
 
-If you're using an older version of ember-cli:
+* `ember server`
+* Visit your app at http://localhost:4200.
 
-```no-highlight
-npm install ember-normalize --save-dev
-ember generate ember-normalize
-```
+## Running Tests
 
-[normalize]: https://github.com/necolas/normalize.css/ "normalize.css"
+* `ember test`
+* `ember test --server`
+
+## Building
+
+* `ember build`
+
+For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
