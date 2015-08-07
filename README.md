@@ -9,7 +9,7 @@ Easily add [normalize.css][normalize] to your ember-cli app.
 ```sass
 // app/styles/app.scss
 
-@import "normalize.css";
+@import "normalize";
 ```
 
 ### Static CSS
@@ -22,8 +22,23 @@ Easily add [normalize.css][normalize] to your ember-cli app.
 
 ## Installation
 
+If you're using ember-cli v0.2.3+:
+
 ```no-highlight
 ember install ember-normalize
+```
+
+If you're using ember-cli v0.1.5 - v0.2.2:
+
+```no-highlight
+ember install:addon ember-normalize
+```
+
+If you're using an older version of ember-cli:
+
+```no-highlight
+npm install ember-normalize --save-dev
+ember generate ember-normalize
 ```
 
 [bower]: http://bower.io "bower"
