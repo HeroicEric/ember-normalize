@@ -6,6 +6,6 @@ module.exports = {
   },
 
   afterInstall: function(options) {
-    return this.addBowerPackageToProject('normalize.css');
+    return this.addBowerPackageToProject('normalize.css', '3.0.3');
   }
 };
