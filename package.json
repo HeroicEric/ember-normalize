@@ -1,6 +1,6 @@
 {
   "name": "ember-normalize",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Easily add normalize.css to your ember-cli apps.",
   "directories": {
     "doc": "doc",
