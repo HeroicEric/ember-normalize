@@ -1,7 +1,7 @@
 {
   "name": "ember-normalize",
   "version": "0.0.5",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Easily add normalize.css to your ember-cli apps.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/HeroicEric/ember-normalize",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Eric Kelly",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
