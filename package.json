@@ -37,14 +37,16 @@
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "ember-try": "^0.2.2",
-    "loader.js": "^4.0.1"
+    "loader.js": "^4.0.1",
+    "normalize.css": "^4.1.1"
   },
   "keywords": [
     "ember-addon"
   ],
   "dependencies": {
     "broccoli-funnel": "^0.2.3",
-    "ember-cli-babel": "^5.1.6"
+    "ember-cli-babel": "^5.1.6",
+    "normalize.css": "~4.1.1"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
