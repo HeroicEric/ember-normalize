@@ -1,5 +1,7 @@
 # ember-normalize
 
+[![Build Status](https://travis-ci.org/HeroicEric/ember-normalize.svg?branch=master)](https://travis-ci.org/HeroicEric/ember-normalize)
+
 Easily add [normalize.css][normalize] to your ember-cli app.
 
 ## Usage
